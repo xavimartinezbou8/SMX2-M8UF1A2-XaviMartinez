@@ -28,7 +28,7 @@ Son aquellos programas o aplicaciones que nos permiten manipular informáticamen
 |Google Sheats |✔️|
 |Google Calendar |📅|
 |Google Meet |🖥️|
-|... | |...|
+|... |...|
 
 6. ¿Que es HTML?
 
