@@ -11,7 +11,7 @@ Practica
 
 4. ¿Qué es una herramienta ofimática?
 
-5. [link](https://www.jivochat.es/blog/herramientas/mejores-herramientas-de-google.html)"Herramientas de Google
+5. [Herramientas de Google](https://www.jivochat.es/blog/herramientas/mejores-herramientas-de-google.html)"descubre las herramientas integradas del navegador google"
 
 |Aplicaciones |Visto |
 |----------|----------:|
