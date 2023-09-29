@@ -39,4 +39,7 @@ Practica
 ```
 7. ¿Qué es CSS?
 
+8. Flujo de trabajo
+
+![U+200E](https://github.com/xavimartinezbou8/SMX2-M8UF1A2-XaviMartinez/blob/main/foto.jpg "imagen")
 
